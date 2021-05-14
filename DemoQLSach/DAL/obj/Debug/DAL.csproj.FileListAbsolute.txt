@@ -1,0 +1,18 @@
+D:\DemoQLSach\DAL\bin\Debug\DAL.exe.config
+D:\DemoQLSach\DAL\bin\Debug\DAL.exe
+D:\DemoQLSach\DAL\bin\Debug\DAL.pdb
+D:\DemoQLSach\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\DemoQLSach\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\DemoQLSach\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\DemoQLSach\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\DemoQLSach\DAL\obj\Debug\DAL.exe
+D:\DemoQLSach\DAL\obj\Debug\DAL.pdb
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DAL\bin\Debug\DAL.exe.config
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DAL\bin\Debug\DAL.exe
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DAL\bin\Debug\DAL.pdb
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DAL\obj\Debug\DAL.exe
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DAL\obj\Debug\DAL.pdb

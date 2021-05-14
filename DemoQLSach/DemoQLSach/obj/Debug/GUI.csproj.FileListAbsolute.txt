@@ -1,0 +1,68 @@
+D:\DemoQLSach\DemoQLSach\bin\Debug\DemoQLSach.exe.config
+D:\DemoQLSach\DemoQLSach\bin\Debug\DemoQLSach.exe
+D:\DemoQLSach\DemoQLSach\bin\Debug\DemoQLSach.pdb
+D:\DemoQLSach\DemoQLSach\bin\Debug\BUS.exe
+D:\DemoQLSach\DemoQLSach\bin\Debug\DAL.exe
+D:\DemoQLSach\DemoQLSach\bin\Debug\BUS.pdb
+D:\DemoQLSach\DemoQLSach\bin\Debug\BUS.exe.config
+D:\DemoQLSach\DemoQLSach\bin\Debug\DAL.pdb
+D:\DemoQLSach\DemoQLSach\bin\Debug\DAL.exe.config
+D:\DemoQLSach\DemoQLSach\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmHoaDon.resources
+D:\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmKhachHang.resources
+D:\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmLoaiSach.resources
+D:\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmMain.resources
+D:\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmNCC.resources
+D:\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmNV.resources
+D:\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmPhieuNhap.resources
+D:\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmSach.resources
+D:\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmSuaKH.resources
+D:\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmSuaLoaiSach.resources
+D:\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmSuaNCC.resources
+D:\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmSuaNV.resources
+D:\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmSuaSach.resources
+D:\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmSuaTG.resources
+D:\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmTacGia.resources
+D:\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.Login.resources
+D:\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.Properties.Resources.resources
+D:\DemoQLSach\DemoQLSach\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\DemoQLSach\DemoQLSach\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\DemoQLSach\DemoQLSach\obj\Debug\GUI.csproj.CopyComplete
+D:\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.exe
+D:\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.pdb
+D:\DemoQLSach\DemoQLSach\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmHoaDonCTHD.resources
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\bin\Debug\DemoQLSach.exe.config
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\bin\Debug\DemoQLSach.exe
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\bin\Debug\DemoQLSach.pdb
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\bin\Debug\BUS.exe
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\bin\Debug\DAL.exe
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\bin\Debug\BUS.pdb
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\bin\Debug\BUS.exe.config
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\bin\Debug\DAL.pdb
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\bin\Debug\DAL.exe.config
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmHoaDon.resources
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmHoaDonCTHD.resources
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmKhachHang.resources
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmLoaiSach.resources
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmMain.resources
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmNCC.resources
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmNV.resources
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmPhieuNhap.resources
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmSach.resources
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmSuaKH.resources
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmSuaLoaiSach.resources
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmSuaNCC.resources
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmSuaNV.resources
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmSuaSach.resources
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmSuaTG.resources
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.FrmTacGia.resources
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.Login.resources
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.Properties.Resources.resources
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\obj\Debug\GUI.csproj.CopyComplete
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.exe
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\DemoQLSach\obj\Debug\DemoQLSach.pdb

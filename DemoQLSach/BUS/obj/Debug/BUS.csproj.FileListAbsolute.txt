@@ -1,0 +1,26 @@
+D:\DemoQLSach\BUS\bin\Debug\BUS.exe.config
+D:\DemoQLSach\BUS\bin\Debug\BUS.exe
+D:\DemoQLSach\BUS\bin\Debug\BUS.pdb
+D:\DemoQLSach\BUS\bin\Debug\DAL.exe
+D:\DemoQLSach\BUS\bin\Debug\DAL.pdb
+D:\DemoQLSach\BUS\bin\Debug\DAL.exe.config
+D:\DemoQLSach\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\DemoQLSach\BUS\obj\Debug\BUS.Properties.Resources.resources
+D:\DemoQLSach\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+D:\DemoQLSach\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\DemoQLSach\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\DemoQLSach\BUS\obj\Debug\BUS.exe
+D:\DemoQLSach\BUS\obj\Debug\BUS.pdb
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\BUS\bin\Debug\BUS.exe.config
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\BUS\bin\Debug\BUS.exe
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\BUS\bin\Debug\BUS.pdb
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\BUS\bin\Debug\DAL.exe
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\BUS\bin\Debug\DAL.pdb
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\BUS\bin\Debug\DAL.exe.config
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\BUS\obj\Debug\BUS.Properties.Resources.resources
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\BUS\obj\Debug\BUS.exe
+D:\BTL WinDows\Nhóm 9_Xay dựng phần mềm quản lý bán sách nhà sách Thái Hà\DemoQLSach\BUS\obj\Debug\BUS.pdb
